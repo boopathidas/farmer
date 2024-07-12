@@ -1,0 +1,33 @@
+.App {
+    text-align: center;
+  }
+  
+  header {
+    background-color: #53b3da;
+    padding: 20px;
+    color: white;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  h2 {
+    color: #282c34;
+  }
+  
